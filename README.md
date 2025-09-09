@@ -2,8 +2,8 @@
 /*******
 //Q.You need to find the maximum sum of a subarray (containing at least one element) in the array arr[].
 
-Note : A subarray is a continuous part of an arra
-Kadane's Algorithm is a dynamic programming algorithm used to find the maximum sum of a contiguous subarray within a one-dimensional array of numbers. It solves the "Maximum Subarray Problem" efficiently with a time complexity of O(n). 
+Note : A subarray is a continuous part of an array
+A Kadane's Algorithm is a dynamic programming algorithm used to find the maximum sum of a contiguous subarray within a one-dimensional array of numbers. It solves the "Maximum Subarray Problem" efficiently with a time complexity of O(n). 
 *******/
 
 class Solution {
